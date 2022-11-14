@@ -6,6 +6,7 @@ The idea here is that the user does not have to enter his password. He only has 
 cloning this repository:
 ```bash
 git clone https://github.com/mohammadmoth/node-otp.git
+cd node-otp
 ```
 
 After cloning this repository, install the dependencies:
